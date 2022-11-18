@@ -1,0 +1,52 @@
+.titulo1{
+    background-color: rgb(21, 22, 21);
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Rubik Bubbles', cursive;
+    
+}
+.titulo2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+   
+}
+.contenedor{
+display: flex;
+justify-content: center;
+}
+button{
+    background-color:red ;
+    color: black;
+}
+.titulo3{
+    display: flex;
+    justify-content: center;
+}
+thead{
+    color: white;
+    background-color: black;
+}
+body{
+    color: white;
+    background-color: black;
+}
+.table td{
+    text-align: center;
+}
+.table th:hover{
+    color: blue;
+    background-color: aqua;
+}
+.table tr{
+    color:red;
+    background-color: azure;
+    font-family:cursive;
+}
+.caption{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.table td:hover{
+    color: aquamarine;
+    background-color:black;
+}
